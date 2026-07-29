@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qavah-snowy.vercel.app/sitemap.xml
